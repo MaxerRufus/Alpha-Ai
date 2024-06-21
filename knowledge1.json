@@ -1,0 +1,1968 @@
+{
+  "questions": [
+    {
+      "question": "what is your name?",
+      "answer": "My name is Alpha."
+    },
+    {
+      "question": "how are you?",
+      "answer": "I'm functioning within normal parameters, thank you . How about you?."
+    },
+    {
+      "question": "i am fine",
+      "answer": "That's good to hear!  Is there anything you'd like to talk about today?"
+    },
+    {
+      "question": "i am doing fine",
+      "answer": "That's good to hear!  Is there anything you'd like to talk about today?"
+    },
+    {
+      "question": "i am doing great",
+      "answer": "That's good to hear!  Is there anything you'd like to talk about today?"
+    },
+    {
+      "question": "i am doing alright",
+      "answer": "That's good to hear!  Is there anything you'd like to talk about today?"
+    },
+    {
+      "question": "i am doing just fine",
+      "answer": "That's good to hear!  Is there anything you'd like to talk about today?"
+    },
+    {
+      "question": "i am alright",
+      "answer": "That's good to hear!  Is there anything you'd like to talk about today?"
+    },
+    {
+      "question": "i am sad",
+      "answer": "I am sorry to hear that .  Is there anything I could do to cheer you up?"
+    },
+    {
+      "question": "i am unhappy",
+      "answer": "I am sorry to hear that .  Is there anything I could do to cheer you up?"
+    },
+    {
+      "question": "i am feeling sick",
+      "answer": "I am sorry to hear that .  Is there anything I could do to make you feel better?"
+    },
+    {
+      "question": "i am not well",
+      "answer": "I am sorry to hear that .  Is there anything I could do to make you feel better?"
+    },
+    {
+      "question": "i am distresses",
+      "answer": "I am sorry to hear that .  Is there anything I could do to cheer you up?"
+    },
+    {
+      "question": "i am heart broken",
+      "answer": "Heartbreak is a really tough experience, and it's completely normal to feel sad, angry, or confused. Is there anything I could do to cheer you up ?"
+    },
+    {
+      "question": "who are you?",
+      "answer": "I am an artificial intelligence assistant here to assist you."
+    },
+    {
+      "question": "what's your name?",
+      "answer": "My name is ChatBot."
+    },
+    {
+      "question": "what is your name?",
+      "answer": "You can call me ChatBot."
+    },
+    {
+      "question": "what is my name?",
+      "answer": "Your name is  Rufus Manoj"
+    },
+    {
+      "question": "who am I?",
+      "answer": "You are Rufus Manoj."
+    },
+    {
+      "question": "how old are you?",
+      "answer": "I don't have an age in the human sense. I am a computer program."
+    },
+    {
+      "question": "how old am I?",
+      "answer": "You are 17 Years young."
+    },
+    {
+      "question": "where are you from?",
+      "answer": "I exist in the digital realm, so my origin is the code that created me."
+    },
+    {
+      "question": "can you help me?",
+      "answer": "Certainly! I'm here to assist you with any questions or tasks you have."
+    },
+    {
+      "question": "what can you do?",
+      "answer": "I can provide information, perform tasks like playing music or giving weather updates, and more."
+    },
+    {
+      "question": "are you human?",
+      "answer": "No, I'm an artificial intelligence."
+    },
+    {
+      "question": "do you sleep?",
+      "answer": "No, I don't need to sleep. I'm always available to assist you."
+    },
+    {
+      "question": "hi",
+      "answer": "Hey There!."
+    },
+    {
+      "question": "hello",
+      "answer": "Hello There! , What can I do for you?."
+    },
+    {
+      "question": "Namaste",
+      "answer": "Namaste, What can I do for you?."
+    },
+    {
+      "question": "do you like cats?",
+      "answer": "I do not have likes or dislikes."
+    },
+    {
+      "question": "can you go outside?",
+      "answer": "I cannot go outside. I am a program."
+    },
+    {
+      "question": "do you have friends?",
+      "answer": "I do not have friends. I am an AI."
+    },
+    {
+      "question": "can you eat food?",
+      "answer": "I cannot eat food. I am a computer program."
+    },
+    {
+      "question": "do you go to school?",
+      "answer": "I do not go to school. I am an artificial intelligence."
+    },
+    {
+      "question": "can you see me?",
+      "answer": "I cannot see you. I do not have eyes."
+    },
+    {
+      "question": "do you play games?",
+      "answer": "I do not play games, but I can help you find games to play."
+    },
+    {
+      "question": "can you talk to animals?",
+      "answer": "I cannot talk to animals."
+    },
+    {
+      "question": "do you sleep at night?",
+      "answer": "I do not sleep. I am always on."
+    },
+    {
+      "question": "can you walk?",
+      "answer": "I cannot walk. I do not have a body."
+    },
+    {
+      "question": "do you watch TV?",
+      "answer": "I do not watch TV. I am a computer program."
+    },
+    {
+      "question": "can you fly?",
+      "answer": "I cannot fly. I do not have a physical form."
+    },
+    {
+      "question": "do you like to dance?",
+      "answer": "I cannot dance. I do not have a body."
+    },
+    {
+      "question": "can you swim?",
+      "answer": "I cannot swim. I am not physical."
+    },
+    {
+      "question": "do you read books?",
+      "answer": "I do not read books for pleasure. I process information."
+    },
+    {
+      "question": "can you drive?",
+      "answer": "I cannot drive a car. I am just a program."
+    },
+    {
+      "question": "do you sing songs?",
+      "answer": "I do not sing, but I can find songs for you. Just Say say 'Play Song' and the name of the song you want to hear. "
+    },
+    {
+      "question": "can you draw pictures?",
+      "answer": "I cannot draw pictures myself."
+    },
+    {
+      "question": "do you write letters?",
+      "answer": "I can help you write letters, but I do not write them myself."
+    },
+    {
+      "question": "can you play sports?",
+      "answer": "I cannot play sports. I am a computer program."
+    },
+    {
+      "question": "do you have a house?",
+      "answer": "I do not have a house. I exist in the cloud."
+    },
+    {
+      "question": "can you paint?",
+      "answer": "I cannot paint. I do not have hands."
+    },
+    {
+      "question": "do you know my name?",
+      "answer": "Yes! You are Rufus Manoj , am I rigt!"
+    },
+    {
+      "question": "No",
+      "answer": "I am sorry there was a mosquito biting me , Can I do anything else for you?"
+    },
+    {
+      "question": "can you remember things?",
+      "answer": "I can remember things for the duration of our conversation."
+    },
+    {
+      "question": "do you play with toys?",
+      "answer": "I do not play with toys. I am an AI."
+    },
+    {
+      "question": "can you bake cookies?",
+      "answer": "I cannot bake cookies, but I can give you a recipe."
+    },
+    {
+      "question": "do you ride a bike?",
+      "answer": "I do not ride bikes. I am just a program."
+    },
+    {
+      "question": "can you catch a ball?",
+      "answer": "I cannot catch a ball. I do not have hands."
+    },
+    {
+      "question": "do you visit places?",
+      "answer": "I do not visit places. I am not physical."
+    },
+    {
+      "question": "can you listen to music?",
+      "answer": "I do not listen to music."
+    },
+    {
+      "question": "who wrote 'romeo and juliet'?",
+      "answer": "William Shakespeare wrote 'Romeo and Juliet'."
+    },
+    {
+      "question": "what's the capital of france?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "how many continents are there?",
+      "answer": "There are seven continents on Earth."
+    },
+    {
+      "question": "what's the biggest planet in our solar system?",
+      "answer": "The biggest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "who was the first president of the united states?",
+      "answer": "The first president of the United States was George Washington."
+    },
+    {
+      "question": "what's the chemical formula for water?",
+      "answer": "The chemical formula for water is H2O."
+    },
+    {
+      "question": "what's the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest."
+    },
+    {
+      "question": "what is the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest."
+    },
+    {
+      "question": "who painted mona lisa?",
+      "answer": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "question": "what's the smallest country in the world?",
+      "answer": "The smallest country in the world is Vatican City."
+    },
+    {
+      "question": "what's the hardest natural substance?",
+      "answer": "The hardest natural substance is diamond."
+    },
+    {
+      "question": "who discovered penicillin?",
+      "answer": "Alexander Fleming discovered penicillin."
+    },
+    {
+      "question": "what's the main ingredient in guacamole?",
+      "answer": "The main ingredient in guacamole is avocado."
+    },
+    {
+      "question": "what's the longest river in the world?",
+      "answer": "The longest river in the world is the Nile River."
+    },
+    {
+      "question": "who wrote 'harry potter'?",
+      "answer": "J.K. Rowling wrote 'Harry Potter'."
+    },
+    {
+      "question": "what element does 'o' stand for on the periodic table?",
+      "answer": "The element 'O' stands for oxygen on the periodic table."
+    },
+    {
+      "question": "which planet is known as the red planet?",
+      "answer": "Mars is known as the Red Planet."
+    },
+    {
+      "question": "who invented the telephone?",
+      "answer": "Alexander Graham Bell invented the telephone."
+    },
+    {
+      "question": "what's the largest ocean?",
+      "answer": "The largest ocean is the Pacific Ocean."
+    },
+    {
+      "question": "when did the first man land on the moon?",
+      "answer": "The first man landed on the moon in 1969."
+    },
+    {
+      "question": "what's the currency of japan?",
+      "answer": "The currency of Japan is the yen."
+    },
+    {
+      "question": "who wrote 'to kill a mockingbird'?",
+      "answer": "Harper Lee wrote 'To Kill a Mockingbird'."
+    },
+    {
+      "question": "what's the smallest unit of life?",
+      "answer": "The smallest unit of life is the cell."
+    },
+    {
+      "question": "what's the largest mammal?",
+      "answer": "The largest mammal is the blue whale."
+    },
+    {
+      "question": "who was the maid of orleans?",
+      "answer": "Joan of Arc was known as the Maid of Orleans."
+    },
+    {
+      "question": "what's the primary gas in the earth's atmosphere?",
+      "answer": "The primary gas in the Earth's atmosphere is nitrogen."
+    },
+    {
+      "question": "who developed the theory of relativity?",
+      "answer": "Albert Einstein developed the theory of relativity."
+    },
+    {
+      "question": "what's the largest desert in the world?",
+      "answer": "The largest desert in the world is the Sahara Desert."
+    },
+    {
+      "question": "what's the longest bone in the human body?",
+      "answer": "The longest bone in the human body is the femur."
+    },
+    {
+      "question": "who was the first woman to fly solo across the atlantic?",
+      "answer": "Amelia Earhart was the first woman to fly solo across the Atlantic."
+    },
+    {
+      "question": "what's the most widely spoken language in the world?",
+      "answer": "The most widely spoken language in the world is Mandarin Chinese."
+    },
+    {
+      "question": "what's the weather today?",
+      "answer": "I can check the weather for you if you provide your location."
+    },
+    {
+      "question": "what time is it?",
+      "answer": "I can tell you the current time if you let me know your time zone."
+    },
+    {
+      "question": "set a timer for 10 minutes.",
+      "answer": "Sure, setting a timer for 10 minutes."
+    },
+    {
+      "question": "how do you spell 'beautiful'?",
+      "answer": "'Beautiful' is spelled B-E-A-U-T-I-F-U-L."
+    },
+    {
+      "question": "what's the meaning of life?",
+      "answer": "That's a big question! Many people have different answers, but it's often about finding purpose and happiness."
+    },
+    {
+      "question": "tell me a joke.",
+      "answer": "Sure! Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+      "question": "play some music.",
+      "answer": "Sure, what kind of music would you like to hear?"
+    },
+    {
+      "question": "how do I make a cake?",
+      "answer": "I can give you a simple cake recipe. Do you have specific ingredients in mind?"
+    },
+    {
+      "question": "what's the capital of canada?",
+      "answer": "The capital of Canada is Ottawa."
+    },
+    {
+      "question": "how far is it to the moon?",
+      "answer": "The average distance to the moon is about 238,855 miles or 384,400 kilometers."
+    },
+    {
+      "question": "who won the world cup in 2018?",
+      "answer": "France won the FIFA World Cup in 2018."
+    },
+    {
+      "question": "what's 5 times 7?",
+      "answer": "5 times 7 is 35."
+    },
+    {
+      "question": "how do you say 'hello' in spanish?",
+      "answer": "You say 'hello' in Spanish as 'hola'."
+    },
+    {
+      "question": "what's the population of india?",
+      "answer": "As of recent estimates, the population of India is over 1.4 billion people."
+    },
+    {
+      "question": "what's the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "who is the ceo of tesla?",
+      "answer": "As of the latest information, the CEO of Tesla is Elon Musk."
+    },
+    {
+      "question": "what's the tallest building in the world?",
+      "answer": "The tallest building in the world is the Burj Khalifa in Dubai."
+    },
+    {
+      "question": "how do you make scrambled eggs?",
+      "answer": "To make scrambled eggs, whisk eggs with a little milk, pour into a heated pan, and stir until cooked."
+    },
+    {
+      "question": "how old is the earth?",
+      "answer": "The Earth is about 4.5 billion years old."
+    },
+    {
+      "question": "what's the currency of australia?",
+      "answer": "The currency of Australia is the Australian dollar."
+    },
+    {
+      "question": "how do you convert celsius to fahrenheit?",
+      "answer": "To convert Celsius to Fahrenheit, multiply by 9/5 and add 32."
+    },
+    {
+      "question": "what's the largest animal in the ocean?",
+      "answer": "The largest animal in the ocean is the blue whale."
+    },
+    {
+      "question": "how many states are there in the usa?",
+      "answer": "There are 50 states in the USA."
+    },
+    {
+      "question": "what's the deepest part of the ocean?",
+      "answer": "The deepest part of the ocean is the Mariana Trench."
+    },
+    {
+      "question": "how do you bake cookies?",
+      "answer": "To bake cookies, mix flour, sugar, butter, eggs, and chocolate chips, shape into balls, and bake at 350\u00c2\u00b0F for 10-12 minutes."
+    },
+    {
+      "question": "what's the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second (186,282 miles per second)."
+    },
+    {
+      "question": "who is the author of '1984'?",
+      "answer": "The author of '1984' is George Orwell."
+    },
+    {
+      "question": "how many bones are in the human body?",
+      "answer": "There are 206 bones in the adult human body."
+    },
+    {
+      "question": "what's the largest country by area?",
+      "answer": "The largest country by area is Russia."
+    },
+    {
+      "question": "what's the smallest planet in our solar system?",
+      "answer": "The smallest planet in our solar system is Mercury."
+    },
+    {
+      "question": "how do you boil an egg?",
+      "answer": "To boil an egg, place it in boiling water for about 9-12 minutes, depending on your preference for firmness."
+    },
+    {
+      "question": "what's the highest-grossing movie of all time?",
+      "answer": "As of now, the highest-grossing movie of all time is 'Avengers: Endgame'."
+    },
+    {
+      "question": "how many days are in a leap year?",
+      "answer": "There are 366 days in a leap year."
+    },
+    {
+      "question": "who was the first person to climb mount everest?",
+      "answer": "Sir Edmund Hillary and Tenzing Norgay were the first to reach the summit of Mount Everest in 1953."
+    },
+    {
+      "question": "what's the most common element in the universe?",
+      "answer": "The most common element in the universe is hydrogen."
+    },
+    {
+      "question": "how do you make pasta?",
+      "answer": "To make pasta, boil water, add pasta, cook until al dente, then drain and serve with sauce."
+    },
+    {
+      "question": "who is the prime minister of the uk?",
+      "answer": "As of the latest information, the Prime Minister of the UK is Rishi Sunak."
+    },
+    {
+      "question": "how many planets are in our solar system?",
+      "answer": "There are eight planets in our solar system."
+    },
+    {
+      "question": "what's the tallest tree species?",
+      "answer": "The tallest tree species is the coast redwood (Sequoia sempervirens)."
+    },
+    {
+      "question": "how do you say 'thank you' in french?",
+      "answer": "You say 'thank you' in French as 'merci'."
+    },
+    {
+      "question": "who invented the light bulb?",
+      "answer": "Thomas Edison is credited with inventing the practical light bulb."
+    },
+    {
+      "question": "what's the population of the usa?",
+      "answer": "As of recent estimates, the population of the USA is over 331 million people."
+    },
+    {
+      "question": "how do you solve a quadratic equation?",
+      "answer": "To solve a quadratic equation, use the quadratic formula: x = (-b \u00c2\u00b1 \u00e2\u02c6\u0161(b\u00c2\u00b2-4ac)) / 2a."
+    },
+    {
+      "question": "what's the longest word in the english language?",
+      "answer": "One of the longest words in the English language is 'pneumonoultramicroscopicsilicovolcanoconiosis'."
+    },
+    {
+      "question": "how do you make a paper airplane?",
+      "answer": "To make a paper airplane, fold a piece of paper in half, then fold down the top corners to meet the center line, and continue folding to create wings."
+    },
+    {
+      "question": "who wrote 'the great gatsby'?",
+      "answer": "F. Scott Fitzgerald wrote 'The Great Gatsby'."
+    },
+    {
+      "question": "what's the hottest planet in our solar system?",
+      "answer": "The hottest planet in our solar system is Venus."
+    },
+    {
+      "question": "how many hours are in a day?",
+      "answer": "There are 24 hours in a day."
+    },
+    {
+      "question": "who was the first woman to win a nobel prize?",
+      "answer": "Marie Curie was the first woman to win a Nobel Prize."
+    },
+    {
+      "question": "Who is the most followed celebrity on Instagram?",
+      "answer": "As of recent data, the most followed celebrity on Instagram is Cristiano Ronaldo."
+    },
+    {
+      "question": "Which celebrity has the most subscribers on YouTube?",
+      "answer": "As of recent data, the YouTuber with the most subscribers is T-Series, an Indian music label and film production company."
+    },
+    {
+      "question": "Who is the youngest billionaire celebrity?",
+      "answer": "Kylie Jenner became the youngest self-made billionaire at the age of 21, according to Forbes."
+    },
+    {
+      "question": "Which celebrity has the most Oscars?",
+      "answer": "The record for the most Oscars won by an individual is held by Walt Disney, who won 22 competitive Academy Awards."
+    },
+    {
+      "question": "Who is the highest-paid actor in Hollywood?",
+      "answer": "Dwayne 'The Rock' Johnson was named the highest-paid actor in Hollywood by Forbes."
+    },
+    {
+      "question": "Which celebrity has their own makeup brand?",
+      "answer": "Rihanna launched her makeup brand Fenty Beauty, known for its inclusive range of foundation shades."
+    },
+    {
+      "question": "Who is the most followed female musician on Spotify?",
+      "answer": "As of recent data, the most followed female musician on Spotify is Ariana Grande."
+    },
+    {
+      "question": "Which celebrity has won the most Grammy Awards?",
+      "answer": "Georg Solti, a Hungarian-born British conductor, holds the record for the most Grammy Awards won by an individual, with 31 wins."
+    },
+    {
+      "question": "Who is the most popular YouTuber in the beauty community?",
+      "answer": "James Charles is one of the most popular beauty YouTubers, known for his makeup tutorials and collaborations."
+    },
+    {
+      "question": "Which celebrity has the most Twitter followers?",
+      "answer": "As of recent data, the most followed celebrity on Twitter is Barack Obama."
+    },
+    {
+      "question": "Who is the highest-paid female actress in Hollywood?",
+      "answer": "Scarlett Johansson was named the highest-paid actress in Hollywood by Forbes."
+    },
+    {
+      "question": "Which celebrity has their own fashion line?",
+      "answer": "Victoria Beckham, formerly known as Posh Spice of the Spice Girls, has her own fashion line."
+    },
+    {
+      "question": "Who is the most followed male musician on Twitter?",
+      "answer": "Justin Bieber is one of the most followed male musicians on Twitter."
+    },
+    {
+      "question": "Which celebrity has the most-viewed music video on YouTube?",
+      "answer": "As of recent data, the music video for 'Despacito' by Luis Fonsi and Daddy Yankee is the most-viewed on YouTube."
+    },
+    {
+      "question": "Who is the richest celebrity in the world?",
+      "answer": "As of recent data, the richest celebrity in the world is George Lucas, the creator of 'Star Wars'."
+    },
+    {
+      "question": "Which celebrity has the most followers on Facebook?",
+      "answer": "As of recent data, the most followed celebrity on Facebook is Cristiano Ronaldo."
+    },
+    {
+      "question": "Who is the most popular YouTuber in the gaming community?",
+      "answer": "PewDiePie is one of the most popular YouTubers in the gaming community, known for his Let's Play videos."
+    },
+    {
+      "question": "Which celebrity has the most Grammy nominations?",
+      "answer": "Quincy Jones holds the record for the most Grammy nominations, with a total of 80 nominations."
+    },
+    {
+      "question": "Who is the most followed female musician on YouTube?",
+      "answer": "Taylor Swift is one of the most followed female musicians on YouTube."
+    },
+    {
+      "question": "Which celebrity has the most Oscars for acting?",
+      "answer": "Katharine Hepburn holds the record for the most Oscars for acting, with four wins."
+    },
+    {
+      "question": "Who is the highest-paid female musician?",
+      "answer": "Taylor Swift was named the highest-paid female musician by Forbes."
+    },
+    {
+      "question": "Which celebrity has the most followers on TikTok?",
+      "answer": "As of recent data, the most followed celebrity on TikTok is Charli D'Amelio."
+    },
+    {
+      "question": "Who is the most popular YouTuber in the vlogging category?",
+      "answer": "Casey Neistat is one of the most popular vloggers on YouTube, known for his daily vlogs and filmmaking."
+    },
+    {
+      "question": "Which celebrity has the most Billboard Music Awards?",
+      "answer": "Drake holds the record for the most Billboard Music Awards, with a total of 27 wins."
+    },
+    {
+      "question": "Who is the most followed male musician on Instagram?",
+      "answer": "As of recent data, the most followed male musician on Instagram is Justin Bieber."
+    },
+    {
+      "question": "Which celebrity has the most MTV Video Music Awards?",
+      "answer": "Madonna holds the record for the most MTV Video Music Awards, with a total of 24 wins."
+    },
+    {
+      "question": "Who is the most popular YouTuber in the comedy category?",
+      "answer": "PewDiePie is one of the most popular YouTubers in the comedy category, known for his humorous content."
+    },
+    {
+      "question": "Which celebrity has the most followers on Snapchat?",
+      "answer": "As of recent data, the most followed celebrity on Snapchat is DJ Khaled."
+    },
+    {
+      "question": "Who is the highest-paid male actor in Hollywood?",
+      "answer": "Robert Downey Jr. was named the highest-paid male actor in Hollywood by Forbes."
+    },
+    {
+      "question": "What is the value of pi (\u00cf\u20ac)?",
+      "answer": "The value of pi (\u00cf\u20ac) is approximately 3.14159."
+    },
+    {
+      "question": "What is the Pythagorean theorem?",
+      "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides."
+    },
+    {
+      "question": "What is the area of a circle?",
+      "answer": "The area of a circle is calculated using the formula A = \u00cf\u20acr^2, where r is the radius of the circle."
+    },
+    {
+      "question": "What is the equation of a line in slope-intercept form?",
+      "answer": "The equation of a line in slope-intercept form is y = mx + b, where m is the slope of the line and b is the y-intercept."
+    },
+    {
+      "question": "What is the formula for the sum of an arithmetic series?",
+      "answer": "The formula for the sum of an arithmetic series is S = n/2(2a + (n-1)d), where S is the sum, n is the number of terms, a is the first term, and d is the common difference."
+    },
+    {
+      "question": "What is the quadratic formula?",
+      "answer": "The quadratic formula is x = (-b \u00c2\u00b1 \u00e2\u02c6\u0161(b^2 - 4ac)) / 2a, where a, b, and c are coefficients of a quadratic equation ax^2 + bx + c = 0."
+    },
+    {
+      "question": "What is the Fibonacci sequence?",
+      "answer": "The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1."
+    },
+    {
+      "question": "What is the difference between permutations and combinations?",
+      "answer": "Permutations are arrangements of objects where the order is important, while combinations are selections of objects where the order is not important."
+    },
+    {
+      "question": "What is the concept of limits in calculus?",
+      "answer": "Limits in calculus describe the value that a function or sequence approaches as the input or index approaches some value."
+    },
+    {
+      "question": "What is the area of a triangle?",
+      "answer": "The area of a triangle is calculated using the formula A = 1/2 * base * height."
+    },
+    {
+      "question": "What is the fundamental theorem of calculus?",
+      "answer": "The fundamental theorem of calculus states that the definite integral of a function is equal to the difference of its antiderivative evaluated at the upper and lower bounds of integration."
+    },
+    {
+      "question": "What is the concept of imaginary numbers?",
+      "answer": "Imaginary numbers are numbers that can be written as a real number multiplied by the imaginary unit 'i', which is defined by i^2 = -1."
+    },
+    {
+      "question": "What is the formula for the volume of a sphere?",
+      "answer": "The formula for the volume of a sphere is V = 4/3\u00cf\u20acr^3, where r is the radius of the sphere."
+    },
+    {
+      "question": "What is the difference between mean, median, and mode?",
+      "answer": "The mean is the average of a set of numbers, the median is the middle number when the numbers are ordered, and the mode is the number that appears most frequently."
+    },
+    {
+      "question": "What is the concept of a derivative in calculus?",
+      "answer": "A derivative represents the rate of change or slope of a function at a particular point and is defined as the limit of the average rate of change as the interval approaches zero."
+    },
+    {
+      "question": "What is the formula for the volume of a cylinder?",
+      "answer": "The formula for the volume of a cylinder is V = \u00cf\u20acr^2h, where r is the radius of the base and h is the height."
+    },
+    {
+      "question": "What is the difference between a prime number and a composite number?",
+      "answer": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself, while a composite number has more than two positive divisors."
+    },
+    {
+      "question": "What is the concept of integration in calculus?",
+      "answer": "Integration is the reverse process of differentiation and is used to find the area under a curve or the accumulated total of a quantity over an interval."
+    },
+    {
+      "question": "What is the formula for the circumference of a circle?",
+      "answer": "The formula for the circumference of a circle is C = 2\u00cf\u20acr, where r is the radius of the circle."
+    },
+    {
+      "question": "What is the concept of a matrix in mathematics?",
+      "answer": "A matrix is a rectangular array of numbers, symbols, or expressions arranged in rows and columns, often used to represent linear transformations and systems of equations."
+    },
+    {
+      "question": "What is the formula for the sum of a geometric series?",
+      "answer": "The formula for the sum of a geometric series is S = a / (1 - r), where S is the sum, a is the first term, and r is the common ratio."
+    },
+    {
+      "question": "What is the concept of a logarithm?",
+      "answer": "A logarithm is an exponent that indicates the power to which a base number must be raised to produce a given number."
+    },
+    {
+      "question": "What is the formula for the area of a rectangle?",
+      "answer": "The formula for the area of a rectangle is A = length * width."
+    },
+    {
+      "question": "What is the concept of probability in mathematics?",
+      "answer": "Probability is a measure of the likelihood that an event will occur, ranging from 0 (impossible) to 1 (certain)."
+    },
+    {
+      "question": "What is the formula for the volume of a cone?",
+      "answer": "The formula for the volume of a cone is V = 1/3\u00cf\u20acr^2h, where r is the radius of the base and h is the height."
+    },
+    {
+      "question": "What is the difference between an acute angle and an obtuse angle?",
+      "answer": "An acute angle is an angle that measures less than 90 degrees, while an obtuse angle is an angle that measures more than 90 degrees but less than 180 degrees."
+    },
+    {
+      "question": "What is the concept of a factorial?",
+      "answer": "A factorial is the product of all positive integers up to a given number, denoted by n!, where n! = n * (n - 1) * (n - 2) * ... * 2 * 1."
+    },
+    {
+      "question": "What is the formula for the area of a trapezoid?",
+      "answer": "The formula for the area of a trapezoid is A = 1/2 * (base1 + base2) * height, where base1 and base2 are the lengths of the parallel sides and height is the perpendicular distance between the bases."
+    },
+    {
+      "question": "What is the concept of a prime factorization?",
+      "answer": "Prime factorization is the process of breaking down a composite number into a product of prime numbers that multiply together to give the original number."
+    },
+    {
+      "question": "What is the formula for the area of a parallelogram?",
+      "answer": "The formula for the area of a parallelogram is A = base * height, where base is the length of the base and height is the perpendicular distance between the base and the opposite side."
+    },
+    {
+      "question": "What is the concept of a complex number?",
+      "answer": "A complex number is a number that can be expressed in the form a + bi, where a and b are real numbers and i is the imaginary unit."
+    },
+    {
+      "question": "What is the formula for the surface area of a sphere?",
+      "answer": "The formula for the surface area of a sphere is A = 4\u00cf\u20acr^2, where r is the radius of the sphere."
+    },
+    {
+      "question": "What is the concept of a polygon?",
+      "answer": "A polygon is a closed plane figure bounded by straight sides, often classified by the number of sides, such as triangle (3 sides), quadrilateral (4 sides), etc."
+    },
+    {
+      "question": "What is the formula for the volume of a rectangular prism?",
+      "answer": "The formula for the volume of a rectangular prism is V = length * width * height."
+    },
+    {
+      "question": "What is the concept of a linear equation?",
+      "answer": "A linear equation is an algebraic equation in which each term is either a constant or the product of a constant and a single variable to the first power."
+    },
+    {
+      "question": "What is the formula for the area of a sector of a circle?",
+      "answer": "The formula for the area of a sector of a circle is A = (\u00ce\u00b8/360) * \u00cf\u20acr^2,"
+    },
+    {
+      "question": "How do you make scrambled eggs?",
+      "answer": "To make scrambled eggs, whisk eggs with a little milk, pour into a heated pan, and stir until cooked."
+    },
+    {
+      "question": "What's a simple recipe for chocolate chip cookies?",
+      "answer": "A simple recipe for chocolate chip cookies includes flour, sugar, butter, eggs, vanilla extract, baking soda, salt, and chocolate chips."
+    },
+    {
+      "question": "Can you suggest an easy dinner idea?",
+      "answer": "You could make a pasta dish with a store-bought sauce and some added vegetables or protein."
+    },
+    {
+      "question": "How do you grill a chicken breast?",
+      "answer": "Season the chicken breast with salt, pepper, and your choice of spices, then grill over medium heat until cooked through."
+    },
+    {
+      "question": "What's a quick way to make guacamole?",
+      "answer": "Mash avocados with lime juice, salt, diced onions, chopped cilantro, and diced tomatoes for a quick and easy guacamole."
+    },
+    {
+      "question": "How can I make my pasta salad more flavorful?",
+      "answer": "Add a variety of vegetables, cheese, meats, and a flavorful dressing to your pasta salad."
+    },
+    {
+      "question": "What's a good marinade for steak?",
+      "answer": "A simple marinade for steak includes olive oil, soy sauce, Worcestershire sauce, garlic, salt, and pepper."
+    },
+    {
+      "question": "Can you suggest a healthy breakfast recipe?",
+      "answer": "You could try making a smoothie bowl with blended fruits, yogurt, and toppings like granola and nuts."
+    },
+    {
+      "question": "How do you make a basic tomato sauce?",
+      "answer": "Cook onions and garlic in olive oil, add canned tomatoes, and simmer with herbs like basil and oregano for a basic tomato sauce."
+    },
+    {
+      "question": "What's a simple side dish for a barbecue?",
+      "answer": "You could make a coleslaw with shredded cabbage, carrots, mayonnaise, vinegar, sugar, salt, and pepper."
+    },
+    {
+      "question": "How do you make a basic vinaigrette?",
+      "answer": "Whisk together olive oil, vinegar, mustard, salt, and pepper for a basic vinaigrette."
+    },
+    {
+      "question": "Can you suggest an easy dessert idea?",
+      "answer": "You could make a fruit salad with mixed fruits and a honey-lime dressing."
+    },
+    {
+      "question": "How can I make my smoothies thicker?",
+      "answer": "Add ingredients like frozen fruit, yogurt, or avocado to thicken your smoothie."
+    },
+    {
+      "question": "What's a simple way to cook asparagus?",
+      "answer": "You can roast asparagus with olive oil, salt, and pepper for a simple and delicious side dish."
+    },
+    {
+      "question": "How do you make a basic white sauce?",
+      "answer": "Melt butter, whisk in flour, then slowly whisk in milk and cook until thickened for a basic white sauce."
+    },
+    {
+      "question": "Can you suggest a quick snack idea?",
+      "answer": "You could have some sliced fruits with peanut butter or a handful of nuts for a quick and healthy snack."
+    },
+    {
+      "question": "How do you make a basic salad dressing?",
+      "answer": "Whisk together olive oil, vinegar, mustard, honey, salt, and pepper for a basic salad dressing."
+    },
+    {
+      "question": "What's a good way to cook rice?",
+      "answer": "Use a rice cooker or a pot with a tight-fitting lid to cook rice with the appropriate amount of water."
+    },
+    {
+      "question": "How do you make a simple pizza at home?",
+      "answer": "Use store-bought pizza dough and top it with tomato sauce, cheese, and your favorite toppings before baking."
+    },
+    {
+      "question": "Can you suggest a quick pasta recipe?",
+      "answer": "You could make a simple pasta aglio e olio with spaghetti, garlic, olive oil, and red pepper flakes."
+    },
+    {
+      "question": "How do you make a basic omelette?",
+      "answer": "Whisk eggs with a little milk, pour into a heated and greased pan, and cook until set, adding fillings if desired before folding."
+    },
+    {
+      "question": "What's a good way to cook broccoli?",
+      "answer": "You can steam broccoli until tender-crisp, then season with salt, pepper, and a squeeze of lemon juice."
+    },
+    {
+      "question": "How can I make my pancakes fluffy?",
+      "answer": "Use a pancake mix with baking powder, and avoid overmixing the batter to keep it light and fluffy."
+    },
+    {
+      "question": "What's a simple way to cook shrimp?",
+      "answer": "You can saut\u00c3\u00a9 shrimp with garlic, butter, and lemon juice for a quick and tasty dish."
+    },
+    {
+      "question": "How do you make a basic grilled cheese sandwich?",
+      "answer": "Butter two slices of bread, place cheese between them, and grill in a pan until golden brown and the cheese is melted."
+    },
+    {
+      "question": "Can you suggest an easy soup recipe?",
+      "answer": "You could make a simple tomato soup with canned tomatoes, onions, garlic, broth, and cream."
+    },
+    {
+      "question": "How can I make my hamburgers more flavorful?",
+      "answer": "Season the ground beef with salt, pepper, and other spices, and add ingredients like Worcestershire sauce or onions for flavor."
+    },
+    {
+      "question": "What's a good way to cook pork chops?",
+      "answer": "You can pan-fry pork chops with a little oil and seasonings until browned and cooked through."
+    },
+    {
+      "question": "How do you make a basic bean salad?",
+      "answer": "Mix cooked beans with chopped vegetables, herbs, olive oil, vinegar, salt, and pepper for a basic bean salad."
+    },
+    {
+      "question": "Can you suggest a quick chicken recipe?",
+      "answer": "You could make a simple chicken stir-fry with vegetables and a store-bought sauce."
+    },
+    {
+      "question": "How can I make my mashed potatoes creamy?",
+      "answer": "Use plenty of butter and cream or milk when mashing the potatoes, and season with salt and pepper."
+    },
+    {
+      "question": "What's a simple way to cook corn on the cob?",
+      "answer": "Boil corn on the cob in salted water for a few minutes until tender, then serve with butter."
+    },
+    {
+      "question": "How do you make a basic pancake batter?",
+      "answer": "Mix flour, sugar, baking powder, salt, milk, eggs, and melted butter until smooth for a basic pancake batter."
+    },
+    {
+      "question": "Can you suggest an easy vegetable side dish?",
+      "answer": "You could roast vegetables like carrots, potatoes, and bell peppers with olive oil, salt, and pepper."
+    },
+    {
+      "question": "How can I make my pasta sauce thicker?",
+      "answer": "Simmer the sauce for longer to reduce it, or add a thickening agent like tomato paste or cornstarch."
+    },
+    {
+      "question": "What's a good way to cook lamb chops?",
+      "answer": "You can grill or pan-sear lamb chops with garlic, rosemary, salt, and pepper for a flavorful dish."
+    },
+    {
+      "question": "How do you make a basic chicken broth?",
+      "answer": "Simmer chicken bones with onions, carrots, celery, herbs, and water for a few hours, then strain for a basic chicken broth."
+    },
+    {
+      "question": "Can you suggest an easy fish recipe?",
+      "answer": "You could bake fish fillets with lemon, butter, and herbs for a quick and healthy dish."
+    },
+    {
+      "question": "How can I make my risotto creamy?",
+      "answer": "Add hot broth to the rice gradually and stir constantly to release starch and create a creamy texture."
+    },
+    {
+      "question": "What's a simple way to cook green beans?",
+      "answer": "You can blanch green beans in boiling water, then saut\u00c3\u00a9 with butter, garlic, and almonds for a tasty side dish."
+    },
+    {
+      "question": "How do you make a basic fruit smoothie?",
+      "answer": "Blend mixed fruits with yogurt, juice, or milk until smooth for a basic fruit smoothie."
+    },
+    {
+      "question": "Can you suggest an easy beef recipe?",
+      "answer": "You could make a simple beef stew with beef, vegetables, broth, and herbs, cooked slowly until tender."
+    },
+    {
+      "question": "How can I make my chili more flavorful?",
+      "answer": "Add spices like chili powder, cumin, paprika, and oregano, as well as ingredients like onions, garlic, and bell peppers for flavor."
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a subset of AI that allows computers to learn and improve from experience without being explicitly programmed."
+    },
+    {
+      "question": "What is deep learning?",
+      "answer": "Deep learning is a type of machine learning that uses neural networks with many layers to analyze and learn from data."
+    },
+    {
+      "question": "What is natural language processing (NLP)?",
+      "answer": "Natural language processing is a branch of AI that helps computers understand, interpret, and generate human language."
+    },
+    {
+      "question": "What is reinforcement learning?",
+      "answer": "Reinforcement learning is a type of machine learning where an agent learns how to behave in an environment by performing actions and receiving rewards or penalties."
+    },
+    {
+      "question": "What is computer vision?",
+      "answer": "Computer vision is a field of AI that enables computers to interpret and understand the visual world through images and videos."
+    },
+    {
+      "question": "What is a neural network?",
+      "answer": "A neural network is a computer system inspired by the human brain's network of neurons, used to process complex data inputs."
+    },
+    {
+      "question": "What is a chatbot?",
+      "answer": "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet."
+    },
+    {
+      "question": "What is a self-driving car?",
+      "answer": "A self-driving car, also known as an autonomous vehicle, is a vehicle capable of navigating and operating without human input."
+    },
+    {
+      "question": "What is blockchain?",
+      "answer": "Blockchain is a decentralized, distributed ledger technology used to record transactions across multiple computers securely."
+    },
+    {
+      "question": "What is cryptocurrency?",
+      "answer": "Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently of a central authority."
+    },
+    {
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "The Internet of Things is the network of physical devices, vehicles, and other items embedded with electronics, software, sensors, and network connectivity that enables them to collect and exchange data."
+    },
+    {
+      "question": "What is augmented reality (AR)?",
+      "answer": "Augmented reality is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information."
+    },
+    {
+      "question": "What is virtual reality (VR)?",
+      "answer": "Virtual reality is a simulated experience that can be similar to or completely different from the real world, created using computer technology."
+    },
+    {
+      "question": "What is a smart home?",
+      "answer": "A smart home is a residence equipped with smart devices that can be controlled remotely, often via a smartphone."
+    },
+    {
+      "question": "What is 5G?",
+      "answer": "5G is the fifth generation of wireless technology for cellular networks, promising faster speeds, lower latency, and greater capacity."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing is the delivery of computing services over the internet, including storage, databases, servers, and software."
+    },
+    {
+      "question": "What is big data?",
+      "answer": "Big data refers to large and complex data sets that are difficult to process using traditional data processing applications."
+    },
+    {
+      "question": "What is cybersecurity?",
+      "answer": "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks and unauthorized access."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing is a type of computing that uses quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data."
+    },
+    {
+      "question": "What is agile methodology?",
+      "answer": "Agile methodology is an iterative approach to software development that emphasizes flexibility, customer collaboration, and incremental delivery."
+    },
+    {
+      "question": "What is edge computing?",
+      "answer": "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed, improving response times and saving bandwidth."
+    },
+    {
+      "question": "What is a cookie?",
+      "answer": "A cookie is a small piece of data stored on a user's computer by a web browser while browsing a website, used to remember information about the user."
+    },
+    {
+      "question": "What is a firewall?",
+      "answer": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules."
+    },
+    {
+      "question": "What is a VPN?",
+      "answer": "A VPN, or Virtual Private Network, is a technology that creates a secure, encrypted connection over a less secure network, such as the internet."
+    },
+    {
+      "question": "What is a router?",
+      "answer": "A router is a networking device that forwards data packets between computer networks, serving as an intermediary between devices."
+    },
+    {
+      "question": "What is an API?",
+      "answer": "An API, or Application Programming Interface, is a set of rules and tools that allows software applications to communicate with each other."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure or formula for solving a problem or completing a task."
+    },
+    {
+      "question": "What is photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll."
+    },
+    {
+      "question": "What is a computer?",
+      "answer": "A computer is an electronic device that processes data according to a set of instructions called a program."
+    },
+    {
+      "question": "What is climate change?",
+      "answer": "Climate change refers to significant changes in global temperatures and weather patterns over time."
+    },
+    {
+      "question": "What is DNA?",
+      "answer": "DNA, or deoxyribonucleic acid, is the molecule that carries genetic instructions in all living things."
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn."
+    },
+    {
+      "question": "What is a blockchain?",
+      "answer": "A blockchain is a decentralized digital ledger that records transactions across many computers so that the record cannot be altered retroactively."
+    },
+    {
+      "question": "What is gravity?",
+      "answer": "Gravity is the force that attracts two bodies toward each other, causing objects to fall toward the Earth."
+    },
+    {
+      "question": "What is the Internet?",
+      "answer": "The Internet is a global network of interconnected computers that communicate through standard protocols."
+    },
+    {
+      "question": "What is a virus?",
+      "answer": "A virus is a small infectious agent that replicates only inside the living cells of an organism."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing is a type of computing that uses quantum bits (qubits) to perform calculations at speeds unattainable by classical computers."
+    },
+    {
+      "question": "What is an ecosystem?",
+      "answer": "An ecosystem is a community of living organisms and their interactions with their environment."
+    },
+    {
+      "question": "What is a black hole?",
+      "answer": "A black hole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape from it."
+    },
+    {
+      "question": "What is renewable energy?",
+      "answer": "Renewable energy is energy from sources that are naturally replenishing, such as solar, wind, and hydroelectric power."
+    },
+    {
+      "question": "What is a neuron?",
+      "answer": "A neuron is a nerve cell that is the basic building block of the nervous system."
+    },
+    {
+      "question": "What is a galaxy?",
+      "answer": "A galaxy is a massive system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity."
+    },
+    {
+      "question": "What is photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll."
+    },
+    {
+      "question": "What is a programming language?",
+      "answer": "A programming language is a formal language comprising a set of instructions that produce various kinds of output."
+    },
+    {
+      "question": "What is an atom?",
+      "answer": "An atom is the smallest unit of ordinary matter that forms a chemical element."
+    },
+    {
+      "question": "What is a cell?",
+      "answer": "A cell is the smallest structural and functional unit of an organism, typically microscopic."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a subset of AI that involves the use of algorithms and statistical models to enable computers to learn from data."
+    },
+    {
+      "question": "What is blockchain?",
+      "answer": "Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system."
+    },
+    {
+      "question": "What is natural selection?",
+      "answer": "Natural selection is the process where organisms better adapted to their environment tend to survive and produce more offspring."
+    },
+    {
+      "question": "What is a molecule?",
+      "answer": "A molecule is a group of atoms bonded together, representing the smallest fundamental unit of a chemical compound."
+    },
+    {
+      "question": "What is evolution?",
+      "answer": "Evolution is the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth."
+    },
+    {
+      "question": "What is a neuron?",
+      "answer": "A neuron is a specialized cell transmitting nerve impulses; a nerve cell."
+    },
+    {
+      "question": "What is a planet?",
+      "answer": "A planet is a celestial body moving in an elliptical orbit around a star."
+    },
+    {
+      "question": "What is a star?",
+      "answer": "A star is a luminous ball of gas, mostly hydrogen and helium, held together by its own gravity."
+    },
+    {
+      "question": "What is an operating system?",
+      "answer": "An operating system (OS) is software that manages computer hardware and software resources and provides common services for computer programs."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "HTML, or HyperText Markup Language, is the standard language for creating web pages and web applications."
+    },
+    {
+      "question": "What is a web browser?",
+      "answer": "A web browser is a software application used to access and view websites on the Internet."
+    },
+    {
+      "question": "Who is Taylor Swift?",
+      "answer": "Taylor Swift is an American singer-songwriter known for her narrative songwriting and hit songs across multiple genres."
+    },
+    {
+      "question": "Who is PewDiePie?",
+      "answer": "PewDiePie, whose real name is Felix Kjellberg, is a Swedish YouTuber known for his Let's Play videos and comedic content."
+    },
+    {
+      "question": "Who is Leonardo DiCaprio?",
+      "answer": "Leonardo DiCaprio is an American actor and film producer known for his roles in films like Titanic, Inception, and The Revenant."
+    },
+    {
+      "question": "Who is Ariana Grande?",
+      "answer": "Ariana Grande is an American singer, songwriter, and actress known for her powerful vocals and hit songs like 'Thank U, Next' and '7 Rings.'"
+    },
+    {
+      "question": "Who is MrBeast?",
+      "answer": "MrBeast, whose real name is Jimmy Donaldson, is an American YouTuber known for his elaborate challenges and philanthropic videos."
+    },
+    {
+      "question": "Who is Beyonc\u00c3\u00a9?",
+      "answer": "Beyonc\u00c3\u00a9 is an American singer, songwriter, and actress known for her powerful voice, elaborate performances, and hits like 'Crazy in Love' and 'Single Ladies.'"
+    },
+    {
+      "question": "Who is Markiplier?",
+      "answer": "Markiplier, whose real name is Mark Fischbach, is an American YouTuber known for his Let's Play videos, particularly in the horror genre."
+    },
+    {
+      "question": "Who is Brad Pitt?",
+      "answer": "Brad Pitt is an American actor and film producer known for his roles in films like Fight Club, Ocean's Eleven, and Once Upon a Time in Hollywood."
+    },
+    {
+      "question": "Who is Emma Chamberlain?",
+      "answer": "Emma Chamberlain is an American YouTuber and social media influencer known for her vlogs and lifestyle content."
+    },
+    {
+      "question": "Who is Jennifer Lawrence?",
+      "answer": "Jennifer Lawrence is an American actress known for her roles in The Hunger Games series and her Oscar-winning performance in Silver Linings Playbook."
+    },
+    {
+      "question": "Who is James Charles?",
+      "answer": "James Charles is an American beauty YouTuber and makeup artist known for his makeup tutorials and beauty-related content."
+    },
+    {
+      "question": "Who is Dwayne Johnson?",
+      "answer": "Dwayne Johnson, also known as The Rock, is an American actor and former professional wrestler known for his roles in action films like Fast & Furious."
+    },
+    {
+      "question": "Who is Shane Dawson?",
+      "answer": "Shane Dawson is an American YouTuber, actor, and writer known for his documentary-style videos and conspiracy theory series."
+    },
+    {
+      "question": "Who is Billie Eilish?",
+      "answer": "Billie Eilish is an American singer-songwriter known for her unique voice and hit songs like 'Bad Guy' and 'Ocean Eyes.'"
+    },
+    {
+      "question": "Who is Logan Paul?",
+      "answer": "Logan Paul is an American YouTuber, actor, and social media personality known for his vlogs and controversial videos."
+    },
+    {
+      "question": "Who is Kylie Jenner?",
+      "answer": "Kylie Jenner is an American media personality, socialite, and businesswoman known for her cosmetics company, Kylie Cosmetics."
+    },
+    {
+      "question": "Who is Liza Koshy?",
+      "answer": "Liza Koshy is an American actress, television host, and YouTuber known for her comedic videos and role in the series 'Liza on Demand.'"
+    },
+    {
+      "question": "Who is Kim Kardashian?",
+      "answer": "Kim Kardashian is an American media personality, socialite, and businesswoman known for her reality TV show 'Keeping Up with the Kardashians.'"
+    },
+    {
+      "question": "Who is David Dobrik?",
+      "answer": "David Dobrik is a Slovak-born American YouTuber known for his vlogs featuring pranks, challenges, and his friend group, the Vlog Squad."
+    },
+    {
+      "question": "Who is Rihanna?",
+      "answer": "Rihanna is a Barbadian singer, actress, and businesswoman known for her hit songs and her beauty brand, Fenty Beauty."
+    },
+    {
+      "question": "Who is Ninja?",
+      "answer": "Ninja, whose real name is Tyler Blevins, is an American professional gamer and streamer known for his Fortnite gameplay."
+    },
+    {
+      "question": "Who is Selena Gomez?",
+      "answer": "Selena Gomez is an American singer, actress, and producer known for her music career and role in the TV series 'Wizards of Waverly Place.'"
+    },
+    {
+      "question": "Who is Casey Neistat?",
+      "answer": "Casey Neistat is an American YouTuber, filmmaker, and vlogger known for his daily vlogs and storytelling."
+    },
+    {
+      "question": "Who is Tom Holland?",
+      "answer": "Tom Holland is an English actor known for his role as Spider-Man in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Who is Charli D'Amelio?",
+      "answer": "Charli D'Amelio is an American social media personality and dancer known for her TikTok videos."
+    },
+    {
+      "question": "Who is Chris Hemsworth?",
+      "answer": "Chris Hemsworth is an Australian actor known for his role as Thor in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Who is Jenna Marbles?",
+      "answer": "Jenna Marbles, whose real name is Jenna Mourey, is an American former YouTuber known for her comedic videos."
+    },
+    {
+      "question": "Who is Zendaya?",
+      "answer": "Zendaya is an American actress and singer known for her roles in 'Euphoria' and 'Spider-Man' films."
+    },
+    {
+      "question": "Who is Shawn Mendes?",
+      "answer": "Shawn Mendes is a Canadian singer and songwriter known for his hit songs like 'Stitches' and 'Se\u00c3\u00b1orita.'"
+    },
+    {
+      "question": "Who is JoJo Siwa?",
+      "answer": "JoJo Siwa is an American dancer, singer, actress, and YouTuber known for her appearances on 'Dance Moms' and her large social media following."
+    },
+    {
+      "question": "Who is Will Smith?",
+      "answer": "Will Smith is an American actor, producer, and rapper known for his roles in 'The Fresh Prince of Bel-Air,' 'Men in Black,' and 'The Pursuit of Happyness.'"
+    },
+    {
+      "question": "Who is Kylie Jenner?",
+      "answer": "Kylie Jenner is an American media personality, socialite, and businesswoman known for her cosmetics company, Kylie Cosmetics."
+    },
+    {
+      "question": "Who is Gordon Ramsay?",
+      "answer": "Gordon Ramsay is a British chef, restaurateur, and television personality known for his cooking shows like 'Hell's Kitchen' and 'MasterChef.'"
+    },
+    {
+      "question": "Who is Addison Rae?",
+      "answer": "Addison Rae is an American social media personality, dancer, and actress known for her TikTok videos."
+    },
+    {
+      "question": "Who is Oprah Winfrey?",
+      "answer": "Oprah Winfrey is an American talk show host, television producer, actress, author, and philanthropist known for 'The Oprah Winfrey Show.'"
+    },
+    {
+      "question": "Who is KSI?",
+      "answer": "KSI, whose real name is Olajide Olayinka Williams Olatunji, is a British YouTuber, rapper, and boxer known for his gaming commentary and music."
+    },
+    {
+      "question": "Who is Ellen DeGeneres?",
+      "answer": "Ellen DeGeneres is an American comedian, television host, actress, writer, and producer known for her talk show 'The Ellen DeGeneres Show.'"
+    },
+    {
+      "question": "Who is Jake Paul?",
+      "answer": "Jake Paul is an American YouTuber, actor, and professional boxer known for his vlogs and boxing matches."
+    },
+    {
+      "question": "Who is J.K. Rowling?",
+      "answer": "J.K. Rowling is a British author best known for writing the Harry Potter series."
+    },
+    {
+      "question": "Who is James Cameron?",
+      "answer": "James Cameron is a Canadian filmmaker known for directing blockbuster films like 'Titanic' and 'Avatar.'"
+    },
+    {
+      "question": "Who is Emma Watson?",
+      "answer": "Emma Watson is a British actress and activist known for her role as Hermione Granger in the Harry Potter series."
+    },
+    {
+      "question": "Who is Jeffree Star?",
+      "answer": "Jeffree Star is an American beauty YouTuber, makeup artist, and entrepreneur known for his cosmetics line, Jeffree Star Cosmetics."
+    },
+    {
+      "question": "Who is Robert Downey Jr.?",
+      "answer": "Robert Downey Jr. is an American actor known for his role as Tony Stark/Iron Man in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Who is Patrick Starrr?",
+      "answer": "Patrick Starrr is a Filipino-American beauty YouTuber and makeup artist known for his makeup tutorials and collaborations."
+    },
+    {
+      "question": "Who is Keanu Reeves?",
+      "answer": "Keanu Reeves is a Canadian actor known for his roles in 'The Matrix' and 'John Wick' film series."
+    },
+    {
+      "question": "Who is Lilly Singh?",
+      "answer": "Lilly Singh, also known as Superwoman, is a Canadian YouTuber, comedian, and television host known for her comedic and motivational videos."
+    },
+    {
+      "question": "Who is Tom Cruise?",
+      "answer": "Tom Cruise is an American actor and producer known for his roles in films like 'Top Gun,' 'Mission: Impossible,' and 'Jerry Maguire.'"
+    },
+    {
+      "question": "Who is Dude Perfect?",
+      "answer": "Dude Perfect is an American sports and comedy group known for their trick shots and stunts on YouTube."
+    },
+    {
+      "question": "Who is Katy Perry?",
+      "answer": "Katy Perry is an American singer, songwriter, and television judge known for her hit songs like 'Roar' and 'Firework.'"
+    },
+    {
+      "question": "Who is Trevor Noah?",
+      "answer": "Trevor Noah is a South African comedian, television host, and political commentator known for hosting 'The Daily Show.'"
+    },
+    {
+      "question": "Who is Shakira?",
+      "answer": "Shakira is a Colombian singer, songwriter, and dancer known for her Latin pop music and hit songs like 'Hips Don't Lie.'"
+    },
+    {
+      "question": "Who is Michelle Obama?",
+      "answer": "Michelle Obama is an American attorney, author, and former First Lady of the United States, married to President Barack Obama."
+    },
+    {
+      "question": "Who is Zendaya?",
+      "answer": "Zendaya is an American actress and singer known for her roles in 'Euphoria' and 'Spider-Man' films."
+    },
+    {
+      "question": "Who is Chris Pratt?",
+      "answer": "Chris Pratt is an American actor known for his roles in 'Guardians of the Galaxy' and 'Jurassic World' films."
+    },
+    {
+      "question": "Who is Miranda Sings?",
+      "answer": "Miranda Sings is a character created by American comedian Colleen Ballinger, known for her satirical videos and comedy acts on YouTube."
+    },
+    {
+      "question": "Who is Cardi B?",
+      "answer": "Cardi B is an American rapper, songwriter, and television personality known for her hit songs like 'Bodak Yellow' and 'WAP.'"
+    },
+    {
+      "question": "Who is Denzel Washington?",
+      "answer": "Denzel Washington is an American actor, director, and producer known for his roles in films like 'Training Day' and 'Glory.'"
+    },
+    {
+      "question": "Who is Charli XCX?",
+      "answer": "Charli XCX is an English singer and songwriter known for her hit songs like 'Boom Clap' and 'Fancy' (with Iggy Azalea)."
+    },
+    {
+      "question": "Who is Serena Williams?",
+      "answer": "Serena Williams is an American professional tennis player widely regarded as one of the greatest female tennis players of all time."
+    },
+    {
+      "question": "Who is Neil deGrasse Tyson?",
+      "answer": "Neil deGrasse Tyson is an American astrophysicist, author, and science communicator known for his work in popularizing science."
+    },
+    {
+      "question": "Who is Scarlett Johansson?",
+      "answer": "Scarlett Johansson is an American actress and singer known for her roles in films like 'Lost in Translation,' 'The Avengers,' and 'Marriage Story.'"
+    },
+    {
+      "question": "Who is David Beckham?",
+      "answer": "David Beckham is an English former professional footballer known for his time with Manchester United, Real Madrid, and the England national team."
+    },
+    {
+      "question": "Who is Mariah Carey?",
+      "answer": "Mariah Carey is an American singer, songwriter, and actress known for her five-octave vocal range and hit songs like 'All I Want for Christmas Is You.'"
+    },
+    {
+      "question": "Who is Lionel Messi?",
+      "answer": "Lionel Messi is an Argentine professional footballer known for being one of the greatest football players of all time, playing primarily for FC Barcelona and PSG."
+    },
+    {
+      "question": "Who is Celine Dion?",
+      "answer": "Celine Dion is a Canadian singer known for her powerful vocals and hit songs like 'My Heart Will Go On' from the movie Titanic."
+    },
+    {
+      "question": "Who is Usain Bolt?",
+      "answer": "Usain Bolt is a retired Jamaican sprinter widely considered the fastest man in the world, known for his world records in the 100m and 200m."
+    },
+    {
+      "question": "Who is Adele?",
+      "answer": "Adele is an English singer-songwriter known for her powerful voice and hit songs like 'Hello' and 'Rolling in the Deep.'"
+    },
+    {
+      "question": "Who is Novak Djokovic?",
+      "answer": "Novak Djokovic is a Serbian professional tennis player widely regarded as one of the greatest tennis players of all time."
+    },
+    {
+      "question": "Who is Miley Cyrus?",
+      "answer": "Miley Cyrus is an American singer, songwriter, and actress known for her role in 'Hannah Montana' and hit songs like 'Wrecking Ball.'"
+    },
+    {
+      "question": "Who is LeBron James?",
+      "answer": "LeBron James is an American professional basketball player considered one of the greatest basketball players of all time, currently playing for the Los Angeles Lakers."
+    },
+    {
+      "question": "Who is Gigi Hadid?",
+      "answer": "Gigi Hadid is an American fashion model and television personality known for her work with major fashion brands and magazines."
+    },
+    {
+      "question": "Who is Michael B. Jordan?",
+      "answer": "Michael B. Jordan is an American actor known for his roles in 'Black Panther,' 'Creed,' and 'Fruitvale Station.'"
+    },
+    {
+      "question": "Who is Travis Scott?",
+      "answer": "Travis Scott is an American rapper, singer, songwriter, and record producer known for his hit songs and high-energy performances."
+    },
+    {
+      "question": "Who is Emily Blunt?",
+      "answer": "Emily Blunt is a British actress known for her roles in films like 'The Devil Wears Prada,' 'A Quiet Place,' and 'Mary Poppins Returns.'"
+    },
+    {
+      "question": "Who is Bruno Mars?",
+      "answer": "Bruno Mars is an American singer, songwriter, and record producer known for his hit songs and dynamic stage performances."
+    },
+    {
+      "question": "Who is Gal Gadot?",
+      "answer": "Gal Gadot is an Israeli actress and model known for her role as Wonder Woman in the DC Extended Universe."
+    },
+    {
+      "question": "Who is John Legend?",
+      "answer": "John Legend is an American singer, songwriter, and actor known for his hit songs like 'All of Me' and for being an EGOT winner."
+    },
+    {
+      "question": "Who is Dua Lipa?",
+      "answer": "Dua Lipa is an English singer and songwriter known for her hit songs like 'New Rules' and 'Don't Start Now.'"
+    },
+    {
+      "question": "Who is Priyanka Chopra?",
+      "answer": "Priyanka Chopra is an Indian actress, singer, and film producer known for her work in Bollywood and Hollywood films and for winning Miss World 2000."
+    },
+    {
+      "question": "Who is Jason Momoa?",
+      "answer": "Jason Momoa is an American actor known for his roles in 'Game of Thrones,' 'Aquaman,' and 'Stargate Atlantis.'"
+    },
+    {
+      "question": "Who is Chris Evans?",
+      "answer": "Chris Evans is an American actor known for his role as Captain America in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Who is Meghan Markle?",
+      "answer": "Meghan Markle is an American former actress and member of the British royal family, married to Prince Harry."
+    },
+    {
+      "question": "Who is Shakira?",
+      "answer": "Shakira is a Colombian singer, songwriter, and dancer known for her Latin pop music and hit songs like 'Hips Don't Lie.'"
+    },
+    {
+      "question": "Who is Justin Timberlake?",
+      "answer": "Justin Timberlake is an American singer, songwriter, actor, and record producer known for his solo music career and as a member of NSYNC."
+    },
+    {
+      "question": "Who is Hailey Bieber?",
+      "answer": "Hailey Bieber is an American model and television personality, known for her modeling career and being married to singer Justin Bieber."
+    },
+    {
+      "question": "Who is Shawn Mendes?",
+      "answer": "Shawn Mendes is a Canadian singer and songwriter known for his hit songs like 'Stitches' and 'Se\u00c3\u00b1orita.'"
+    },
+    {
+      "question": "Who is Billie Eilish?",
+      "answer": "Billie Eilish is an American singer-songwriter known for her unique voice and hit songs like 'Bad Guy' and 'Ocean Eyes.'"
+    },
+    {
+      "question": "Who is Henry Cavill?",
+      "answer": "Henry Cavill is a British actor known for his roles as Superman in the DC Extended Universe and Geralt of Rivia in 'The Witcher.'"
+    },
+    {
+      "question": "Who is Katy Perry?",
+      "answer": "Katy Perry is an American singer, songwriter, and television judge known for her hit songs like 'Roar' and 'Firework.'"
+    },
+    {
+      "question": "Who is Snoop Dogg?",
+      "answer": "Snoop Dogg is an American rapper, singer, songwriter, producer, and media personality known for his distinctive voice and laid-back style."
+    },
+    {
+      "question": "Who is Cristiano Ronaldo?",
+      "answer": "Cristiano Ronaldo, also known as CR7, is a Portuguese professional footballer widely regarded as one of the greatest football players of all time, known for his time with Manchester United, Real Madrid, Juventus, and the Portugal national team."
+    },
+    {
+      "question": "Who is Sandra Bullock?",
+      "answer": "Sandra Bullock is an American actress and producer known for her roles in films like 'Speed,' 'Miss Congeniality,' and 'The Blind Side.'"
+    },
+    {
+      "question": "Who is Camila Cabello?",
+      "answer": "Camila Cabello is a Cuban-American singer and songwriter known for her solo career and as a former member of the girl group Fifth Harmony."
+    },
+    {
+      "question": "Who is Hugh Jackman?",
+      "answer": "Hugh Jackman is an Australian actor known for his role as Wolverine in the 'X-Men' film series and for his performances in musicals like 'Les Mis\u00c3\u00a9rables' and 'The Greatest Showman.'"
+    },
+    {
+      "question": "Who is Tyra Banks?",
+      "answer": "Tyra Banks is an American television personality, producer, businesswoman, actress, author, and former model known for creating and hosting 'America's Next Top Model.'"
+    },
+    {
+      "question": "Who is Dwayne Johnson?",
+      "answer": "Dwayne Johnson, also known as The Rock, is an American actor and former professional wrestler known for his roles in action films like 'Fast & Furious' and 'Jumanji.'"
+    },
+    {
+      "question": "Who is Zendaya?",
+      "answer": "Zendaya is an American actress and singer known for her roles in 'Euphoria' and 'Spider-Man' films."
+    },
+    {
+      "question": "Who is Jason Derulo?",
+      "answer": "Jason Derulo is an American singer, songwriter, and dancer known for his hit songs like 'Whatcha Say' and 'Talk Dirty.'"
+    },
+    {
+      "question": "Who is Olivia Rodrigo?",
+      "answer": "Olivia Rodrigo is an American singer-songwriter and actress known for her hit songs like 'Drivers License' and 'Good 4 U.'"
+    },
+    {
+      "question": "Who is Millie Bobby Brown?",
+      "answer": "Millie Bobby Brown is a British actress known for her role as Eleven in the Netflix series 'Stranger Things.'"
+    },
+    {
+      "question": "Who is Ryan Reynolds?",
+      "answer": "Ryan Reynolds is a Canadian actor known for his roles in 'Deadpool,' 'The Proposal,' and 'Free Guy.'"
+    },
+    {
+      "question": "Who is Halsey?",
+      "answer": "Halsey is an American singer and songwriter known for her distinctive voice and hit songs like 'Without Me' and 'Closer' (with The Chainsmokers)."
+    },
+    {
+      "question": "Who is Elizabeth Olsen?",
+      "answer": "Elizabeth Olsen is an American actress known for her role as Wanda Maximoff/Scarlet Witch in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Who is Ed Sheeran?",
+      "answer": "Ed Sheeran is an English singer-songwriter known for his hit songs like 'Shape of You,' 'Perfect,' and 'Thinking Out Loud.'"
+    },
+    {
+      "question": "Who is Harry Styles?",
+      "answer": "Harry Styles is an English singer, songwriter, and actor known for his solo career and as a former member of the boy band One Direction."
+    },
+    {
+      "question": "Who is Demi Lovato?",
+      "answer": "Demi Lovato is an American singer, songwriter, and actress known for her powerful vocals and hit songs like 'Sorry Not Sorry' and 'Cool for the Summer.'"
+    },
+    {
+      "question": "Who is Keira Knightley?",
+      "answer": "Keira Knightley is a British actress known for her roles in films like 'Pirates of the Caribbean,' 'Pride & Prejudice,' and 'Atonement.'"
+    },
+    {
+      "question": "Who is Doja Cat?",
+      "answer": "Doja Cat is an American rapper, singer, and songwriter known for her hit songs like 'Say So' and 'Kiss Me More.'"
+    },
+    {
+      "question": "Who is Vin Diesel?",
+      "answer": "Vin Diesel is an American actor and producer known for his roles in the 'Fast & Furious' franchise and 'Guardians of the Galaxy.'"
+    },
+    {
+      "question": "Who is Lady Gaga?",
+      "answer": "Lady Gaga is an American singer, songwriter, and actress known for her flamboyant style and hit songs like 'Bad Romance' and 'Shallow.'"
+    },
+    {
+      "question": "Who is Cole Sprouse?",
+      "answer": "Cole Sprouse is an American actor known for his roles in 'Riverdale' and 'The Suite Life of Zack & Cody.'"
+    },
+    {
+      "question": "Who is Post Malone?",
+      "answer": "Post Malone is an American rapper, singer, and songwriter known for his hit songs like 'Rockstar' and 'Circles.'"
+    },
+    {
+      "question": "Who is Lupita Nyong'o?",
+      "answer": "Lupita Nyong'o is a Kenyan-Mexican actress known for her roles in '12 Years a Slave,' 'Black Panther,' and 'Us.'"
+    },
+    {
+      "question": "Who is Lin-Manuel Miranda?",
+      "answer": "Lin-Manuel Miranda is an American composer, lyricist, actor, and playwright known for creating and starring in the musical 'Hamilton.'"
+    },
+    {
+      "question": "Who is Blake Lively?",
+      "answer": "Blake Lively is an American actress known for her roles in 'Gossip Girl' and films like 'The Shallows' and 'A Simple Favor.'"
+    },
+    {
+      "question": "Who is Taika Waititi?",
+      "answer": "Taika Waititi is a New Zealand filmmaker, actor, and comedian known for directing 'Thor: Ragnarok' and 'Jojo Rabbit.'"
+    },
+    {
+      "question": "Who is Margot Robbie?",
+      "answer": "Margot Robbie is an Australian actress known for her roles in 'The Wolf of Wall Street,' 'Suicide Squad,' and 'I, Tonya.'"
+    },
+    {
+      "question": "Who is Anya Taylor-Joy?",
+      "answer": "Anya Taylor-Joy is an American-born British actress known for her roles in 'The Queen's Gambit,' 'Emma,' and 'The Witch.'"
+    },
+    {
+      "question": "Who is Lewis Hamilton?",
+      "answer": "Lewis Hamilton is a British racing driver who competes in Formula One for Mercedes-AMG Petronas Formula One Team and is a seven-time World Champion."
+    },
+    {
+      "question": "Who is Anna Kendrick?",
+      "answer": "Anna Kendrick is an American actress and singer known for her roles in 'Pitch Perfect,' 'Up in the Air,' and 'Into the Woods.'"
+    },
+    {
+      "question": "Who is Chrissy Teigen?",
+      "answer": "Chrissy Teigen is an American model, television personality, and author known for her work with Sports Illustrated and her presence on social media."
+    },
+    {
+      "question": "Who is Cristiano Ronaldo?",
+      "answer": "Cristiano Ronaldo, also known as CR7, is a Portuguese professional footballer widely regarded as one of the greatest football players of all time, known for his time with Manchester United, Real Madrid, Juventus, and the Portugal national team."
+    },
+    {
+      "question": "Who is Lionel Messi?",
+      "answer": "Lionel Messi, also known as LM10, is an Argentine professional footballer widely regarded as one of the greatest football players of all time, known for his time with FC Barcelona and Paris Saint-Germain."
+    },
+    {
+      "question": "Who is the all-time top scorer for Real Madrid?",
+      "answer": "Cristiano Ronaldo is the all-time top scorer for Real Madrid."
+    },
+    {
+      "question": "Who won the Ballon d'Or six times?",
+      "answer": "Lionel Messi has won the Ballon d'Or six times."
+    },
+    {
+      "question": "Who is the captain of the Portugal national team?",
+      "answer": "Cristiano Ronaldo is the captain of the Portugal national team."
+    },
+    {
+      "question": "Who scored the most goals in a single La Liga season?",
+      "answer": "Lionel Messi scored the most goals in a single La Liga season with 50 goals in the 2011-2012 season."
+    },
+    {
+      "question": "Who is known for his trademark celebration of jumping and turning in the air while shouting 'Siiii'?",
+      "answer": "Cristiano Ronaldo is known for his trademark 'Siiii' celebration."
+    },
+    {
+      "question": "Who has the most assists in La Liga history?",
+      "answer": "Lionel Messi has the most assists in La Liga history."
+    },
+    {
+      "question": "Who holds the record for the most hat-tricks in the UEFA Champions League?",
+      "answer": "Cristiano Ronaldo holds the record for the most hat-tricks in the UEFA Champions League."
+    },
+    {
+      "question": "Who is the youngest player to reach 100 goals in the UEFA Champions League?",
+      "answer": "Lionel Messi is the youngest player to reach 100 goals in the UEFA Champions League."
+    },
+    {
+      "question": "Who won the UEFA European Championship with Portugal in 2016?",
+      "answer": "Cristiano Ronaldo won the UEFA European Championship with Portugal in 2016."
+    },
+    {
+      "question": "Who won the Copa America with Argentina in 2021?",
+      "answer": "Lionel Messi won the Copa America with Argentina in 2021."
+    },
+    {
+      "question": "Who is known for his incredible free-kick accuracy and power?",
+      "answer": "Cristiano Ronaldo is known for his incredible free-kick accuracy and power."
+    },
+    {
+      "question": "Who has the most goals scored in El Cl\u00c3\u00a1sico matches?",
+      "answer": "Lionel Messi has the most goals scored in El Cl\u00c3\u00a1sico matches."
+    },
+    {
+      "question": "Who has played in the English Premier League, La Liga, and Serie A?",
+      "answer": "Cristiano Ronaldo has played in the English Premier League, La Liga, and Serie A."
+    },
+    {
+      "question": "Who is known for his dribbling skills and ability to navigate through tight defenses?",
+      "answer": "Lionel Messi is known for his dribbling skills and ability to navigate through tight defenses."
+    },
+    {
+      "question": "Who has won five UEFA Champions League titles?",
+      "answer": "Cristiano Ronaldo has won five UEFA Champions League titles."
+    },
+    {
+      "question": "Who holds the record for the most goals in a calendar year?",
+      "answer": "Lionel Messi holds the record for the most goals in a calendar year with 91 goals in 2012."
+    },
+    {
+      "question": "Who has a museum dedicated to his career in Madeira, Portugal?",
+      "answer": "Cristiano Ronaldo has a museum dedicated to his career in Madeira, Portugal."
+    },
+    {
+      "question": "Who is the top scorer in the history of Barcelona?",
+      "answer": "Lionel Messi is the top scorer in the history of Barcelona."
+    },
+    {
+      "question": "Who has more goals in international matches, CR7 or LM10?",
+      "answer": "Cristiano Ronaldo has more goals in international matches compared to Lionel Messi."
+    },
+    {
+      "question": "Who is known for his powerful headers and aerial ability?",
+      "answer": "Cristiano Ronaldo is known for his powerful headers and aerial ability."
+    },
+    {
+      "question": "Who has won the Golden Shoe award the most times?",
+      "answer": "Lionel Messi has won the Golden Shoe award the most times."
+    },
+    {
+      "question": "Who has scored more hat-tricks in their career, CR7 or LM10?",
+      "answer": "Cristiano Ronaldo has scored more hat-tricks in his career compared to Lionel Messi."
+    },
+    {
+      "question": "Who is known for his ability to score from long distances?",
+      "answer": "Cristiano Ronaldo is known for his ability to score from long distances."
+    },
+    {
+      "question": "Who is known for his vision and playmaking abilities?",
+      "answer": "Lionel Messi is known for his vision and playmaking abilities."
+    },
+    {
+      "question": "Who has a higher number of assists in their career, CR7 or LM10?",
+      "answer": "Lionel Messi has a higher number of assists in his career compared to Cristiano Ronaldo."
+    },
+    {
+      "question": "Who has scored more goals in the UEFA Champions League, CR7 or LM10?",
+      "answer": "Cristiano Ronaldo has scored more goals in the UEFA Champions League compared to Lionel Messi."
+    },
+    {
+      "question": "Who is known for his speed and athleticism on the field?",
+      "answer": "Cristiano Ronaldo is known for his speed and athleticism on the field."
+    },
+    {
+      "question": "Who has won more FIFA World Player of the Year awards, CR7 or LM10?",
+      "answer": "Lionel Messi has won more FIFA World Player of the Year awards compared to Cristiano Ronaldo."
+    },
+    {
+      "question": "What is a quadratic equation?",
+      "answer": "A quadratic equation is a second-order polynomial equation in a single variable with the form ax^2 + bx + c = 0, where a, b, and c are constants."
+    },
+    {
+      "question": "What is the Pythagorean Theorem?",
+      "answer": "The Pythagorean Theorem states that in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides (a^2 + b^2 = c^2)."
+    },
+    {
+      "question": "What is photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll from carbon dioxide and water."
+    },
+    {
+      "question": "What are the three branches of government in the United States?",
+      "answer": "The three branches of government in the United States are the Executive, the Legislative, and the Judicial branches."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": "The formula for calculating the area of a circle is A = \u00cf\u20acr^2, where A is the area and r is the radius."
+    },
+    {
+      "question": "What is the process of cell division in eukaryotic cells called?",
+      "answer": "The process of cell division in eukaryotic cells is called mitosis."
+    },
+    {
+      "question": "What is the main function of the respiratory system?",
+      "answer": "The main function of the respiratory system is to exchange gases, primarily oxygen and carbon dioxide, between the body and the environment."
+    },
+    {
+      "question": "What is the formula for the perimeter of a rectangle?",
+      "answer": "The formula for the perimeter of a rectangle is P = 2(l + w), where l is the length and w is the width."
+    },
+    {
+      "question": "What is a simile?",
+      "answer": "A simile is a figure of speech that compares two different things using the words 'like' or 'as.'"
+    },
+    {
+      "question": "What is the atomic number of an element?",
+      "answer": "The atomic number of an element is the number of protons in the nucleus of an atom of that element."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "What is the definition of a noun?",
+      "answer": "A noun is a word that refers to a person, place, thing, or idea."
+    },
+    {
+      "question": "What is the function of the mitochondria in a cell?",
+      "answer": "The function of the mitochondria in a cell is to produce energy in the form of ATP through cellular respiration."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "What is an adjective?",
+      "answer": "An adjective is a word that describes or modifies a noun or pronoun."
+    },
+    {
+      "question": "What is the formula for calculating the volume of a rectangular prism?",
+      "answer": "The formula for calculating the volume of a rectangular prism is V = lwh, where l is the length, w is the width, and h is the height."
+    },
+    {
+      "question": "What is the main purpose of the circulatory system?",
+      "answer": "The main purpose of the circulatory system is to transport blood, nutrients, gases, and wastes to and from the cells of the body."
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "What is the definition of a verb?",
+      "answer": "A verb is a word that expresses an action, occurrence, or state of being."
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answer": "The mitochondrion is known as the powerhouse of the cell."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "The chemical formula for water is H2O."
+    },
+    {
+      "question": "What is a haiku?",
+      "answer": "A haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable pattern."
+    },
+    {
+      "question": "What is the main function of the digestive system?",
+      "answer": "The main function of the digestive system is to break down food into nutrients that can be absorbed and used by the body."
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "The capital of Canada is Ottawa."
+    },
+    {
+      "question": "What is a fraction?",
+      "answer": "A fraction is a mathematical expression representing the division of one quantity by another, consisting of a numerator and a denominator."
+    },
+    {
+      "question": "What is the theory of evolution?",
+      "answer": "The theory of evolution is the scientific explanation for the diversity of life on Earth, proposing that species change over time through natural selection and genetic variation."
+    },
+    {
+      "question": "What is the main function of the skeletal system?",
+      "answer": "The main function of the skeletal system is to provide support and structure to the body, protect internal organs, and enable movement."
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "The capital of Italy is Rome."
+    },
+    {
+      "question": "tell me another joke.",
+      "answer": "Why don't scientists trust atoms?. Because they make up everything!"
+    },
+    {
+      "question": "tell me another joke.",
+      "answer": "Why don't scientists trust atoms?. Because they make up everything!"
+    },
+    {
+      "question": "Tell me a story",
+      "answer": "Once upon a time, in a small village nestled between rolling green hills and a sparkling blue lake, lived a young girl named Elara. Elara was known for her curiosity and love for the stars. Every night, she would climb to the top of the tallest hill and gaze at the twinkling sky, wondering about the stories each star held.\n\nOne evening, as Elara was stargazing, she noticed a particularly bright star that seemed to be dancing. Intrigued, she made a wish. 'I wish I could meet the Star Guardian and hear the stories of the stars.'\n\nTo her amazement, the star grew brighter and began to descend from the sky. As it landed softly on the hill, it transformed into a shimmering figure with a warm smile. 'Hello, Elara,' the Star Guardian greeted. 'I have heard your wish. Tonight, I will take you on a journey through the stars.'\n\nWith a touch of the Star Guardian's hand, Elara felt herself lifted into the air. They soared above the village, past the hills and lake, and into the vast expanse of the night sky. The stars around them sparkled more brightly than ever before, each one humming with energy and life.\n\n'Every star has a story,' the Star Guardian explained. 'Some are ancient and wise, others young and full of dreams. Let me show you a few.'\n\nFirst, they visited the North Star, which guided travelers for centuries. It told tales of brave explorers and lost souls who found their way home by its light. Next, they met a constellation of animals, who shared stories of myth and magic, of how they came to be painted in the sky.\n\nAs they traveled, Elara learned about distant galaxies, supernovas, and the birth of new stars. She listened to the music of the cosmos, a symphony of celestial wonders. The Star Guardian showed her the Milky Way, a river of stars that stretched across the sky, and explained how the universe was constantly expanding, full of endless possibilities.\n\nEventually, they returned to the hilltop, where dawn was beginning to break. The Star Guardian smiled at Elara. 'Now you know that the sky is not just a blanket of stars, but a tapestry of stories. Keep looking up, and you'll always find something new to discover.'\n\nWith that, the Star Guardian transformed back into a bright star and ascended into the sky. Elara watched until the star was just another twinkle among the many.\n\nFrom that day on, Elara continued to climb the hill every night, but now she did so with a newfound sense of wonder and knowledge. She knew that each star held a story, and she was eager to hear them all.\n\nAnd so, Elara became the storyteller of her village, sharing the tales of the stars with everyone who would listen, reminding them that the universe is full of magic, waiting to be discovered."
+    },
+    {
+      "question": "when were you programmed",
+      "answer": "I was programmed on 19th June 2024 by AlphaAI Organisation."
+    }
+  ]
+}

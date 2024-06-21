@@ -1,0 +1,123 @@
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #000; /* Fallback background color */
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.video-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+#background-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  transition: background-video 0.3s ease
+}
+
+.chat-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.chat-heading {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.chat-box {
+  height: 400px;
+  overflow-y: scroll;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  border-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-input {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0); /* Semi-transparent background */
+}
+
+.input-box {
+  flex: 1;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  color: #ffffff;
+}
+
+.send-button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.send-button:hover {
+  background: linear-gradient(135deg, rgba(0, 0, 1, 0.5) 0%, rgba(0, 0, 0, 0.8) 100%); /* Black gradient */
+}
+
+.message {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.message-content {
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 70%;
+  margin-left: 10px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.message.user .message-content {
+  background-color: #67b26f;
+}
+
+.message.bot .message-content {
+  background: linear-gradient(135deg, #67b26f 0%, #4ca2cd 100%);
+}
